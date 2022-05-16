@@ -167,6 +167,43 @@ Account 2 :-
  git remote add origin git@github.com1:abc/xyz.git
 ```
 
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+- Forking and Pull Request
+
+
+--Forking is a way to contribute into  public open projects   it clones public repository into users account so user can make changes and contributions to the project without affecting the main project.
+
+
+--when we want to include changes made by us into pulic repository or project  we make a pull request to the user of main public repository  to accept changes . Only after accepting and merging pull request changes are visible. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
